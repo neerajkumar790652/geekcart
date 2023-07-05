@@ -1,0 +1,19 @@
+.navbar-main{
+    display: flex;
+    background-color: grey;
+    color:white;
+    justify-content:space-between;
+    align-items: center;
+    padding:20px;
+   
+}
+.navbar-list{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.navbar-list a{
+    margin-left:50px;
+    text-decoration: none;
+    color:white
+}

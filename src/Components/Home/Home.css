@@ -1,0 +1,32 @@
+.video-main{
+    width:100vw;
+    height: 100vh;
+    position:absolute ;
+}
+.video-main video{
+    width:99vw;
+
+    
+}
+.details{
+    position:relative;
+   /* top:20; */
+    color :white;
+    width:600px;
+    margin:200px auto;
+    text-align: center;
+}
+.details h1,p,button{
+    margin-bottom: 20px;
+}
+.details button {
+    width:150px;
+    height: 45px;
+    font-size: 20px;
+    padding:9px;
+    box-shadow: 1px 1px 10px 7px red;
+    cursor: pointer;
+    border-radius: 50px;border:none;
+    outline:none;
+
+}
